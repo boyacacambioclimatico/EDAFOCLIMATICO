@@ -8,17 +8,13 @@ Desarrollo de una estrategia de adaptación que conduzca a reducir la vulnerabil
 
 El proyecto tiene como objetivo principal mejorar los rendimientos productivos de los sistemas agrícolas de mayor importancia económica de la zona centro del departamento de Boyacá, a la vez, que se promueve la adaptación al cambio climático, a través de la evaluación experimental de prácticas y tecnologías enmarcadas en el enfoque de Agricultura Sostenible Adaptada al Clima (ASAC).
 
-Este repositorio contiene todos los datos de clima de la zonas de Motavita, Siachoque, Soracá, Toca, Tunja , Ventaquemada y Samacá.
+Este repositorio contiene todos la zonifiacación de clima y suelos  de la zonas de Motavita, Siachoque, Soracá, Toca, Tunja , Ventaquemada y Samacá.
 
 # Carpetas :file_folder:
 
 Las carpetas están organizadas de la siguiente manera:
 
--:earth_africa:  Mapas Están los archivos shape files del proyecto.
 
--:earth_africa: Codigo: Es el codigo hecho en R.
-
--:earth_africa: Shapes: Los shapes que tiene la zona de estudio. 
 
 
 
